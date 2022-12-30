@@ -71,7 +71,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="flex flex-col justify-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider text-center">
-                Recipe App
+                Hornhollow Portfolio
               </span>
               <div className="pt-8 text-center">
                 <a href="https://www.hornhollow.com/">
